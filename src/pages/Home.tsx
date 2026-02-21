@@ -11,7 +11,7 @@ const slides = [
     description: "Join our global family as we worship, grow, and impact the world with the message of hope and transformation."
   },
   {
-    image: "input_file_1.png",
+    image: "wps.jpg",
     tag: "Global Community",
     title: <>A Place to <br /><span className="text-transparent bg-clip-text bg-gradient-to-r from-church-gold via-white to-church-gold">Belong & Grow</span></>,
     description: "Discover your purpose and build authentic relationships in a community that cares for your spiritual journey."
